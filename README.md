@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbdulqadirMerchant
+- 👀 I’m interested in coding in languages such as python, playing chess and also love to play badminton
+- 🌱 I’m currently learning C programming language and aim to perfect it soon
+- 📫 You can reach me through my mail id: abum0522@gmail.com
