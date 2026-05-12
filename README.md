@@ -1,4 +1,4 @@
-- 👋 Hey there
+## 👋 Hey there
 
 My name is Abdulqadir, a software developer based in India
   
@@ -8,4 +8,4 @@ I have experience in Python, MySQL, Tkinter, PyQt, and Machine Learning, with pr
 
 I am currently exploring advanced Python development, software engineering, and AI-driven applications.
 
-- 📫 You can reach me through my mail id: abum0522@gmail.com
+## 📫 You can reach me through my mail id: abum0522@gmail.com
